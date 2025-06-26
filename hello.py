@@ -1,5 +1,5 @@
 # Shamelessly copied from http://flask.pocoo.org/docs/quickstart/
-print("Happy Coding")
+print("This is a python file")
 from flask import Flask
 app = Flask(__name__)
 
